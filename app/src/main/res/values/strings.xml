@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_1">1. What is the name of the following shape?</string>
+    <string name="question_2">2. Select the name of the following shape.</string>
+    <string name="question_3">3. Select all type(s) of shapes for the following.</string>
+    <string name="question_4">4. How many vertices does this shape have?</string>
+    <string name="name_hint">Type the name</string>
+    <string name="square">Square</string>
+    <string name="parallelogram">Parallelogram</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="image_of_a_square">Image of a square</string>
+    <string name="image_of_a_parallelogram">Image of a parallelogram</string>
+    <string name="quadrilateral">Quadrilateral</string>
+    <string name="number_of_vertices">Enter # of vertices</string>
+    <string name="image_of_a_rectangle">Image of a rectangle</string>
+    <string name="submit">Submit</string>
+</resources>
